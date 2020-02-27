@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <div class="title"> Spark some color!. Use your Arrow keys to draw something.</div>
+  <div class="title"> Spark some color!. Use your <span>Arrow Keys</span> to draw something.</div>
   <div class="canvasWrap">
     <canvas width="1600" height="1000" id="etch-a-sketch"></canvas>
     <div class="buttons">
@@ -69,6 +69,10 @@
       background-color: black;
       padding: 20px;
       text-align: center;
+    }
+
+    span {
+      color: rgb(255, 197, 8);
     }
 
     @keyframes shake {
