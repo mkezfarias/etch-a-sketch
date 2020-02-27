@@ -16,7 +16,7 @@ let y = Math.floor(Math.random() * height);
 
 ctx.lineJoin = 'round';
 ctx.lineCap = 'round';
-ctx.lineWidth = 20;
+ctx.lineWidth = 40;
 let hue = 0;
 ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
 ctx.beginPath(); // starts the drawing
@@ -26,7 +26,7 @@ ctx.stroke();
 
 // write a draw function
 function draw({ key }) {
-  hue += 20;
+  hue += 3;
   ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
   console.log(key);
   ctx.beginPath();
