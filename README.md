@@ -21,10 +21,6 @@
 --
   </p>
 
-
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -34,8 +30,6 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -51,7 +45,7 @@ Move the pointer with the keyboard arrows and create cool drawings
 ### Built With
 
 * [HTML]
-* [JAVASCRIPT](https://rubyonrails.org/)
+* [JAVASCRIPT]
 * [CSS]
 
 <!-- GETTING STARTED -->
