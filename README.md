@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-An old times etch-a-sketch game, made with vanilla Javascript will spark the black and white interface with with a rainbow trail
+An old times etch-a-sketch game, it's built with vanilla Javascript. Watch the black and white background get rainbow-colored when you start drawing.
 
 Move the pointer with the keyboard arrows and create cool drawings
 
@@ -59,11 +59,11 @@ Clone or fork the repo <https://github.com/mkezmkez/etch-a-sketch>
 <!-- CONTRIBUTING --> 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
@@ -79,7 +79,7 @@ Open License
 ## Contact
 
 Luis Puente - [@mkezmkez](https://twitter.com/mkezkmez)
-
+[Linkedin](https://www.linkedin.com/in/luis-puente-431114191/)
 
 <!-- FUTURE FEATURES -->
 ## Future features
