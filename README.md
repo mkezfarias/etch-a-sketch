@@ -1,6 +1,6 @@
 <p align="center">
    
-  # Javascript etch-a-sketch 
+  # Etch-a-sketch with vanilla JavaScript
 <br>
   <a href="https://github.com/mkezmkez/etch-a-sketch"><strong>Explore the docs »</strong></a>
 <br>
