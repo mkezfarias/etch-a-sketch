@@ -2,7 +2,7 @@
    
   # Etch-a-sketch with vanilla JavaScript
 <br>
-  <a href="https://github.com/mkezmkez/etch-a-sketch"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/mkezmkez/etch-a-sketch"><strong>Explore the docs »</strong> </a>
 <br>
 <br> 
   <a href="https://mkezmkez.github.io/etch-a-sketch/">View Demo</a>
