@@ -28,7 +28,6 @@
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 
 
@@ -66,13 +65,6 @@ Contributions are what makes the open source community such an amazing place to 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Open License
 
 
 <!-- CONTACT -->
